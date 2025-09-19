@@ -41,9 +41,12 @@ Este projeto consiste em uma **API RESTful desenvolvida em .NET**, com foco no *
 
 ## Como Acessar
 - **Endpoint raiz**: `https://desafioapi.azurewebsites.net/` → retorna status da API.  
-- **Swagger UI**: `https://desafioapi.azurewebsites.net/swagger/index.html` → documentação interativa dos endpoints.  
+- **Swagger UI**: `https://desafioapi.azurewebsites.net/swagger/index.html` → documentação interativa dos endpoints.
 
 ---
 
 ## Resumo Final
 Este projeto demonstra competência em **desenvolvimento de APIs, integração com banco de dados, deploy em nuvem e documentação de endpoints**, consolidando habilidades essenciais para projetos corporativos modernos em **.NET e Azure**.
+
+- <img width="1228" height="440" alt="Captura de tela de 2025-09-19 10-56-21" src="https://github.com/user-attachments/assets/6c0b3638-76cf-4bf2-9d93-dfb73eb105f8" />
+<img width="1228" height="440" alt="Captura de tela de 2025-09-19 10-56-21" src="https://github.com/user-attachments/assets/c57fc9a8-5f80-46dc-89c9-73abd7a49a72" />
