@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "projetoapi/bin/Release/net9.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/0a0c4350-ebf5-4718-881d-a63db7ee76ea/resourceGroups/desafioapiazure/providers/Microsoft.Web/sites/desafioapi"
+}
