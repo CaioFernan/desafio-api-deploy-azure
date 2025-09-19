@@ -15,7 +15,7 @@ Este projeto consiste em uma **API RESTful desenvolvida em .NET**, com foco no *
 ---
 
 ## Tecnologias Utilizadas
-- **Backend**: .NET 7/8 (C#) utilizando o padrão **Minimal API**.  
+- **Backend**: .NET 9 (C#) utilizando o padrão **Controller API**.  
 - **Banco de Dados**: SQL Server hospedado no **Azure SQL Database**, integrado via Entity Framework Core (DbContext).  
 - **Documentação**: Swagger/OpenAPI para testes e visualização de endpoints.  
 - **Deploy e Infraestrutura**: Azure App Service para hospedar a API em ambiente de produção, com HTTPS configurado e logs de execução monitorados.  
@@ -40,8 +40,8 @@ Este projeto consiste em uma **API RESTful desenvolvida em .NET**, com foco no *
 ---
 
 ## Como Acessar
-- **Endpoint raiz**: `https://<seu-app>.azurewebsites.net/` → retorna status da API.  
-- **Swagger UI**: `https://<seu-app>.azurewebsites.net/swagger/index.html` → documentação interativa dos endpoints.  
+- **Endpoint raiz**: `https://desafioapi.azurewebsites.net/` → retorna status da API.  
+- **Swagger UI**: `https://desafioapi.azurewebsites.net/swagger/index.html` → documentação interativa dos endpoints.  
 
 ---
 
